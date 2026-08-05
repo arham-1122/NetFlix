@@ -119,21 +119,6 @@ This project helped strengthen my understanding of:
 
 ---
 
-## Screenshots
-
-Add screenshots of the application here.
-
-Example:
-
-```text
-screenshots/
-├── homepage.png
-├── features.png
-├── faq.png
-└── mobile-view.png
-```
-
----
 
 ## Author
 
