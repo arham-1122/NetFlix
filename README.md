@@ -106,18 +106,6 @@ This project helped strengthen my understanding of:
 
 ---
 
-## Future Enhancements
-
-* Interactive FAQ accordion using JavaScript
-* User authentication interface
-* Movie browsing pages
-* Dynamic content rendering
-* Dark mode improvements
-* Hover animations and transitions
-* Backend integration
-* Responsive navigation menu
-
----
 
 
 ## Author
